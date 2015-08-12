@@ -8,6 +8,9 @@ Changelog
 4.3.7 (unreleased)
 ------------------
 
+- Upgrade known core packages at the end of the Plone migration.
+  [maurits]
+
 - Properly hide ``plone.app.jquery`` and ``plone.app.jquerytools``
   from products.
   [maurits]
